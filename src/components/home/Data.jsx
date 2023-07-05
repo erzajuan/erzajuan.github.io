@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Fullstak Developer</h3>
+      <h3 className="home__subtitle">Fullstack Developer</h3>
       <p className="home__description">
         Fullstack Developer | Node.js, React.js and Flutter |
         Bangkit Academy Graduate
