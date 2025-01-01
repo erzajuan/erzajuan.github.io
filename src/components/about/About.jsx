@@ -13,7 +13,13 @@ const About = () => {
         <div className="about__img"></div>
         <div className="about__data">
           <Info />
-          <p className="about__description">Passionate Fullstack Developer skilled in Node.js, React.js, and Mobile Flutter. Proficient in backend development, utilizing Node.js and PostgreSQL for database integration. Fresh graduate committed to delivering high-quality solutions.</p>
+          <p className="about__description">
+            Bachelor’s degree in Informatics Engineering from Dian Nuswantoro
+            University. Proficient in developing REST APIs using the JavaScript
+            framework Express.js, Sequelize ORM, and database integration with
+            PostgreSQL and MySQL. Experienced as a programmer in the finance
+            sector and as a Back-End Developer since 2023.
+          </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
             <svg

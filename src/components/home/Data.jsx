@@ -57,8 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Fullstack Developer</h3>
       <p className="home__description">
-        Fullstack Developer | Node.js, React.js and Flutter |
-        Bangkit Academy Graduate
+        Back-End Developer | Express.js | Node.js
       </p>
       <a href="mailto: erzabastilla@gmail.com" className="button button--flex">
         Say Hello
